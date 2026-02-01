@@ -7,6 +7,10 @@
     <groupId>com.d2f</groupId>
     <artifactId>system-design-learning</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>design-rate-limiter</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
